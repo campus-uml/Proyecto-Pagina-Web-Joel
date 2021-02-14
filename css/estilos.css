@@ -71,7 +71,8 @@ nav > a:hover{
 
 }
 
-.wave{
+/* nombre de la clase */
+.ola{
 
     position: absolute;
     bottom: 0;
