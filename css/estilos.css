@@ -71,6 +71,34 @@ nav > a:hover{
 
 }
 
+header .inicio-header{
+
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+
+}
+
+.inicio-header h1{
+
+    font-size: 30px;
+    color: #fff
+
+}
+
+.inicio-header h2{
+
+    font-size: 30px;
+    font-weight: 300;
+    color: #fff;
+
+}
+
 /* nombre de la clase */
 .ola{
 
